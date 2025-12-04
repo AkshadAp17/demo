@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-    <h1>My Dockerized React App - Updated!</h1>  
+    <h1>My Dockerized React App - !</h1>  
     <h2>Backend says:</h2>
       <p style={{ fontSize: "22px", color: "green" }}>{message}</p>
     </div>
