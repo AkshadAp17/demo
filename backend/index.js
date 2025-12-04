@@ -9,7 +9,7 @@ app.use(cors());
 
 // Simple API endpoint
 app.get("/", (req, res) => {
-  res.json({ message: "Hello from Backend! Akshad11/17" });
+  res.json({ message: "Hello from Backend! Akshad11/17 king of Samosa" });
 });
 
 
