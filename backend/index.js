@@ -9,7 +9,7 @@ app.use(cors());
 
 // Simple API endpoint
 app.get("/", (req, res) => {
-  res.json({ message: "Hello from Backend! Updated version!" });
+  res.json({ message: "Hello from Backend! " });
 });
 
 
